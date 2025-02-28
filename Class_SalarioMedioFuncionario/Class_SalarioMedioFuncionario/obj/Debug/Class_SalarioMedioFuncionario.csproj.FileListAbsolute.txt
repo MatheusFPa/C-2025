@@ -1,0 +1,7 @@
+D:\Development Projects\C#2025\Class_SalarioMedioFuncionario\Class_SalarioMedioFuncionario\bin\Debug\Class_SalarioMedioFuncionario.exe.config
+D:\Development Projects\C#2025\Class_SalarioMedioFuncionario\Class_SalarioMedioFuncionario\bin\Debug\Class_SalarioMedioFuncionario.exe
+D:\Development Projects\C#2025\Class_SalarioMedioFuncionario\Class_SalarioMedioFuncionario\bin\Debug\Class_SalarioMedioFuncionario.pdb
+D:\Development Projects\C#2025\Class_SalarioMedioFuncionario\Class_SalarioMedioFuncionario\obj\Debug\Class_SalarioMedioFuncionario.csproj.AssemblyReference.cache
+D:\Development Projects\C#2025\Class_SalarioMedioFuncionario\Class_SalarioMedioFuncionario\obj\Debug\Class_SalarioMedioFuncionario.csproj.CoreCompileInputs.cache
+D:\Development Projects\C#2025\Class_SalarioMedioFuncionario\Class_SalarioMedioFuncionario\obj\Debug\Class_SalarioMedioFuncionario.exe
+D:\Development Projects\C#2025\Class_SalarioMedioFuncionario\Class_SalarioMedioFuncionario\obj\Debug\Class_SalarioMedioFuncionario.pdb

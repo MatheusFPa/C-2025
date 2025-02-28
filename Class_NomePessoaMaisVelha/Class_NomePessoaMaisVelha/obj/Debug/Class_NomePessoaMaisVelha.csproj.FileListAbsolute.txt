@@ -1,0 +1,7 @@
+D:\Development Projects\C#2025\Class_NomePessoaMaisVelha\Class_NomePessoaMaisVelha\bin\Debug\Class_NomePessoaMaisVelha.exe.config
+D:\Development Projects\C#2025\Class_NomePessoaMaisVelha\Class_NomePessoaMaisVelha\bin\Debug\Class_NomePessoaMaisVelha.exe
+D:\Development Projects\C#2025\Class_NomePessoaMaisVelha\Class_NomePessoaMaisVelha\bin\Debug\Class_NomePessoaMaisVelha.pdb
+D:\Development Projects\C#2025\Class_NomePessoaMaisVelha\Class_NomePessoaMaisVelha\obj\Debug\Class_NomePessoaMaisVelha.csproj.AssemblyReference.cache
+D:\Development Projects\C#2025\Class_NomePessoaMaisVelha\Class_NomePessoaMaisVelha\obj\Debug\Class_NomePessoaMaisVelha.csproj.CoreCompileInputs.cache
+D:\Development Projects\C#2025\Class_NomePessoaMaisVelha\Class_NomePessoaMaisVelha\obj\Debug\Class_NomePessoaMaisVelha.exe
+D:\Development Projects\C#2025\Class_NomePessoaMaisVelha\Class_NomePessoaMaisVelha\obj\Debug\Class_NomePessoaMaisVelha.pdb

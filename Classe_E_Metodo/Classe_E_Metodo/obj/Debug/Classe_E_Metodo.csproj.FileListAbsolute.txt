@@ -1,0 +1,7 @@
+D:\Development Projects\C#2025\Classe_E_Metodo\Classe_E_Metodo\bin\Debug\Classe_E_Metodo.exe.config
+D:\Development Projects\C#2025\Classe_E_Metodo\Classe_E_Metodo\bin\Debug\Classe_E_Metodo.exe
+D:\Development Projects\C#2025\Classe_E_Metodo\Classe_E_Metodo\bin\Debug\Classe_E_Metodo.pdb
+D:\Development Projects\C#2025\Classe_E_Metodo\Classe_E_Metodo\obj\Debug\Classe_E_Metodo.csproj.AssemblyReference.cache
+D:\Development Projects\C#2025\Classe_E_Metodo\Classe_E_Metodo\obj\Debug\Classe_E_Metodo.csproj.CoreCompileInputs.cache
+D:\Development Projects\C#2025\Classe_E_Metodo\Classe_E_Metodo\obj\Debug\Classe_E_Metodo.exe
+D:\Development Projects\C#2025\Classe_E_Metodo\Classe_E_Metodo\obj\Debug\Classe_E_Metodo.pdb
