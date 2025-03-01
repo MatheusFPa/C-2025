@@ -1,0 +1,7 @@
+D:\Development Projects\C#2025\CalculoDoRetangulo\CalculoDoRetangulo\bin\Debug\CalculoDoRetangulo.exe.config
+D:\Development Projects\C#2025\CalculoDoRetangulo\CalculoDoRetangulo\bin\Debug\CalculoDoRetangulo.exe
+D:\Development Projects\C#2025\CalculoDoRetangulo\CalculoDoRetangulo\bin\Debug\CalculoDoRetangulo.pdb
+D:\Development Projects\C#2025\CalculoDoRetangulo\CalculoDoRetangulo\obj\Debug\CalculoDoRetangulo.csproj.AssemblyReference.cache
+D:\Development Projects\C#2025\CalculoDoRetangulo\CalculoDoRetangulo\obj\Debug\CalculoDoRetangulo.csproj.CoreCompileInputs.cache
+D:\Development Projects\C#2025\CalculoDoRetangulo\CalculoDoRetangulo\obj\Debug\CalculoDoRetangulo.exe
+D:\Development Projects\C#2025\CalculoDoRetangulo\CalculoDoRetangulo\obj\Debug\CalculoDoRetangulo.pdb
