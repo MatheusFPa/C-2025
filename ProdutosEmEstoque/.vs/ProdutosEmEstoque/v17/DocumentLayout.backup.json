@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\Development Projects\\C#2025\\ProdutosEmEstoque\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D307F5C6-DF9B-4C0A-AE80-99F49C3E6382}|ProdutosEmEstoque\\ProdutosEmEstoque.csproj|d:\\development projects\\c#2025\\produtosemestoque\\produtosemestoque\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D307F5C6-DF9B-4C0A-AE80-99F49C3E6382}|ProdutosEmEstoque\\ProdutosEmEstoque.csproj|solutionrelative:produtosemestoque\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D307F5C6-DF9B-4C0A-AE80-99F49C3E6382}|ProdutosEmEstoque\\ProdutosEmEstoque.csproj|d:\\development projects\\c#2025\\produtosemestoque\\produtosemestoque\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D307F5C6-DF9B-4C0A-AE80-99F49C3E6382}|ProdutosEmEstoque\\ProdutosEmEstoque.csproj|solutionrelative:produtosemestoque\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D307F5C6-DF9B-4C0A-AE80-99F49C3E6382}|ProdutosEmEstoque\\ProdutosEmEstoque.csproj|D:\\Development Projects\\C#2025\\ProdutosEmEstoque\\produtosemestoque\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D307F5C6-DF9B-4C0A-AE80-99F49C3E6382}|ProdutosEmEstoque\\ProdutosEmEstoque.csproj|solutionrelative:produtosemestoque\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,27 +27,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Product.cs",
-              "DocumentMoniker": "D:\\Development Projects\\C#2025\\ProdutosEmEstoque\\ProdutosEmEstoque\\Product.cs",
-              "RelativeDocumentMoniker": "ProdutosEmEstoque\\Product.cs",
-              "ToolTip": "D:\\Development Projects\\C#2025\\ProdutosEmEstoque\\ProdutosEmEstoque\\Product.cs",
-              "RelativeToolTip": "ProdutosEmEstoque\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T22:14:08.26Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Development Projects\\C#2025\\ProdutosEmEstoque\\ProdutosEmEstoque\\Program.cs",
               "RelativeDocumentMoniker": "ProdutosEmEstoque\\Program.cs",
               "ToolTip": "D:\\Development Projects\\C#2025\\ProdutosEmEstoque\\ProdutosEmEstoque\\Program.cs",
               "RelativeToolTip": "ProdutosEmEstoque\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-28T22:13:54.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Development Projects\\C#2025\\ProdutosEmEstoque\\ProdutosEmEstoque\\Product.cs",
+              "RelativeDocumentMoniker": "ProdutosEmEstoque\\Product.cs",
+              "ToolTip": "D:\\Development Projects\\C#2025\\ProdutosEmEstoque\\ProdutosEmEstoque\\Product.cs",
+              "RelativeToolTip": "ProdutosEmEstoque\\Product.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T22:14:08.26Z",
               "EditorCaption": ""
             }
           ]

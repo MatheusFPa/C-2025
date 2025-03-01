@@ -1,0 +1,7 @@
+D:\Development Projects\C#2025\ProdutosEmEstoque\ProdutosEmEstoque\bin\Debug\ProdutosEmEstoque.exe.config
+D:\Development Projects\C#2025\ProdutosEmEstoque\ProdutosEmEstoque\bin\Debug\ProdutosEmEstoque.exe
+D:\Development Projects\C#2025\ProdutosEmEstoque\ProdutosEmEstoque\bin\Debug\ProdutosEmEstoque.pdb
+D:\Development Projects\C#2025\ProdutosEmEstoque\ProdutosEmEstoque\obj\Debug\ProdutosEmEstoque.csproj.AssemblyReference.cache
+D:\Development Projects\C#2025\ProdutosEmEstoque\ProdutosEmEstoque\obj\Debug\ProdutosEmEstoque.csproj.CoreCompileInputs.cache
+D:\Development Projects\C#2025\ProdutosEmEstoque\ProdutosEmEstoque\obj\Debug\ProdutosEmEstoque.exe
+D:\Development Projects\C#2025\ProdutosEmEstoque\ProdutosEmEstoque\obj\Debug\ProdutosEmEstoque.pdb
