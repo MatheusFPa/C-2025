@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\Development Projects\\C#2025\\CalculoDoRetangulo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{981EA8EF-C888-4C63-B062-ACBE3E0FF01F}|CalculoDoRetangulo\\CalculoDoRetangulo.csproj|D:\\Development Projects\\C#2025\\CalculoDoRetangulo\\calculodoretangulo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{981EA8EF-C888-4C63-B062-ACBE3E0FF01F}|CalculoDoRetangulo\\CalculoDoRetangulo.csproj|solutionrelative:calculodoretangulo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{981EA8EF-C888-4C63-B062-ACBE3E0FF01F}|CalculoDoRetangulo\\CalculoDoRetangulo.csproj|D:\\Development Projects\\C#2025\\CalculoDoRetangulo\\calculodoretangulo\\retangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{981EA8EF-C888-4C63-B062-ACBE3E0FF01F}|CalculoDoRetangulo\\CalculoDoRetangulo.csproj|solutionrelative:calculodoretangulo\\retangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{981EA8EF-C888-4C63-B062-ACBE3E0FF01F}|CalculoDoRetangulo\\CalculoDoRetangulo.csproj|d:\\development projects\\c#2025\\calculodoretangulo\\calculodoretangulo\\retangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{981EA8EF-C888-4C63-B062-ACBE3E0FF01F}|CalculoDoRetangulo\\CalculoDoRetangulo.csproj|solutionrelative:calculodoretangulo\\retangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{981EA8EF-C888-4C63-B062-ACBE3E0FF01F}|CalculoDoRetangulo\\CalculoDoRetangulo.csproj|d:\\development projects\\c#2025\\calculodoretangulo\\calculodoretangulo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{981EA8EF-C888-4C63-B062-ACBE3E0FF01F}|CalculoDoRetangulo\\CalculoDoRetangulo.csproj|solutionrelative:calculodoretangulo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,26 +26,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Development Projects\\C#2025\\CalculoDoRetangulo\\CalculoDoRetangulo\\Program.cs",
               "RelativeDocumentMoniker": "CalculoDoRetangulo\\Program.cs",
               "ToolTip": "D:\\Development Projects\\C#2025\\CalculoDoRetangulo\\CalculoDoRetangulo\\Program.cs",
               "RelativeToolTip": "CalculoDoRetangulo\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-01T01:08:23.444Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Retangulo.cs",
               "DocumentMoniker": "D:\\Development Projects\\C#2025\\CalculoDoRetangulo\\CalculoDoRetangulo\\Retangulo.cs",
               "RelativeDocumentMoniker": "CalculoDoRetangulo\\Retangulo.cs",
               "ToolTip": "D:\\Development Projects\\C#2025\\CalculoDoRetangulo\\CalculoDoRetangulo\\Retangulo.cs",
               "RelativeToolTip": "CalculoDoRetangulo\\Retangulo.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-01T01:08:37.811Z",
               "EditorCaption": ""

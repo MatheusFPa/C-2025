@@ -1,0 +1,10 @@
+D:\Development Projects\C#2025\ConsoleTest\ConsoleTest\bin\Debug\ConsoleTest.exe.config
+D:\Development Projects\C#2025\ConsoleTest\ConsoleTest\bin\Debug\ConsoleTest.exe
+D:\Development Projects\C#2025\ConsoleTest\ConsoleTest\bin\Debug\ConsoleTest.pdb
+D:\Development Projects\C#2025\ConsoleTest\ConsoleTest\obj\Debug\ConsoleTest.csproj.AssemblyReference.cache
+D:\Development Projects\C#2025\ConsoleTest\ConsoleTest\obj\Debug\ConsoleTest.Form1.resources
+D:\Development Projects\C#2025\ConsoleTest\ConsoleTest\obj\Debug\ConsoleTest.Properties.Resources.resources
+D:\Development Projects\C#2025\ConsoleTest\ConsoleTest\obj\Debug\ConsoleTest.csproj.GenerateResource.cache
+D:\Development Projects\C#2025\ConsoleTest\ConsoleTest\obj\Debug\ConsoleTest.csproj.CoreCompileInputs.cache
+D:\Development Projects\C#2025\ConsoleTest\ConsoleTest\obj\Debug\ConsoleTest.exe
+D:\Development Projects\C#2025\ConsoleTest\ConsoleTest\obj\Debug\ConsoleTest.pdb

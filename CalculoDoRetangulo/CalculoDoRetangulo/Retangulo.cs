@@ -28,7 +28,8 @@ namespace CalculoDoRetangulo
         }
         public override string ToString()
         {
-            return Area().ToString("F2", CultureInfo.InvariantCulture) + ", " + Perimetro().ToString("F2", CultureInfo.InvariantCulture) + ", " + Diagonal().ToString("F2", CultureInfo.InvariantCulture) ;
+            return "Area: " + Area().ToString("F2", CultureInfo.InvariantCulture) + ", " + "Perimetro: " + 
+                Perimetro().ToString("F2", CultureInfo.InvariantCulture) + ", " + "Diagonal: " + Diagonal().ToString("F2", CultureInfo.InvariantCulture) ;
         }
     }
 }

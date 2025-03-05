@@ -1,0 +1,7 @@
+D:\Development Projects\C#2025\ClasseDadosFuncionario\ClasseDadosFuncionario\obj\Debug\ClasseDadosFuncionario.csproj.AssemblyReference.cache
+D:\Development Projects\C#2025\ClasseDadosFuncionario\ClasseDadosFuncionario\obj\Debug\ClasseDadosFuncionario.csproj.CoreCompileInputs.cache
+D:\Development Projects\C#2025\ClasseDadosFuncionario\ClasseDadosFuncionario\bin\Debug\ClasseDadosFuncionario.exe.config
+D:\Development Projects\C#2025\ClasseDadosFuncionario\ClasseDadosFuncionario\bin\Debug\ClasseDadosFuncionario.exe
+D:\Development Projects\C#2025\ClasseDadosFuncionario\ClasseDadosFuncionario\bin\Debug\ClasseDadosFuncionario.pdb
+D:\Development Projects\C#2025\ClasseDadosFuncionario\ClasseDadosFuncionario\obj\Debug\ClasseDadosFuncionario.exe
+D:\Development Projects\C#2025\ClasseDadosFuncionario\ClasseDadosFuncionario\obj\Debug\ClasseDadosFuncionario.pdb
