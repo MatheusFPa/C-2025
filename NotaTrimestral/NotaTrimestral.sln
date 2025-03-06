@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotaTrimestral", "NotaTrimestral\NotaTrimestral.csproj", "{ECDE0EC5-0C45-4EA6-9B73-693B235EAD53}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECDE0EC5-0C45-4EA6-9B73-693B235EAD53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECDE0EC5-0C45-4EA6-9B73-693B235EAD53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECDE0EC5-0C45-4EA6-9B73-693B235EAD53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECDE0EC5-0C45-4EA6-9B73-693B235EAD53}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C48ECFFC-089C-47BD-A882-D398A274303D}
+	EndGlobalSection
+EndGlobal
