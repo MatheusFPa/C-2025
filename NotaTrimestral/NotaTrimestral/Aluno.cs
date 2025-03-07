@@ -39,6 +39,5 @@ namespace NotaTrimestral
                 return 60.0 - NotaFinal();
             }
         }
-
     }
 }

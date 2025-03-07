@@ -1,0 +1,7 @@
+D:\Development Projects\C#2025\MembrosEstaticos\MembrosEstaticos\bin\Debug\MembrosEstaticos.exe.config
+D:\Development Projects\C#2025\MembrosEstaticos\MembrosEstaticos\bin\Debug\MembrosEstaticos.exe
+D:\Development Projects\C#2025\MembrosEstaticos\MembrosEstaticos\bin\Debug\MembrosEstaticos.pdb
+D:\Development Projects\C#2025\MembrosEstaticos\MembrosEstaticos\obj\Debug\MembrosEstaticos.csproj.AssemblyReference.cache
+D:\Development Projects\C#2025\MembrosEstaticos\MembrosEstaticos\obj\Debug\MembrosEstaticos.csproj.CoreCompileInputs.cache
+D:\Development Projects\C#2025\MembrosEstaticos\MembrosEstaticos\obj\Debug\MembrosEstaticos.exe
+D:\Development Projects\C#2025\MembrosEstaticos\MembrosEstaticos\obj\Debug\MembrosEstaticos.pdb
