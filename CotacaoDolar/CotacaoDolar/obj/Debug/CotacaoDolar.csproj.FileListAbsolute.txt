@@ -1,0 +1,7 @@
+D:\Development Projects\C#2025\CotacaoDolar\CotacaoDolar\bin\Debug\CotacaoDolar.exe.config
+D:\Development Projects\C#2025\CotacaoDolar\CotacaoDolar\bin\Debug\CotacaoDolar.exe
+D:\Development Projects\C#2025\CotacaoDolar\CotacaoDolar\bin\Debug\CotacaoDolar.pdb
+D:\Development Projects\C#2025\CotacaoDolar\CotacaoDolar\obj\Debug\CotacaoDolar.csproj.AssemblyReference.cache
+D:\Development Projects\C#2025\CotacaoDolar\CotacaoDolar\obj\Debug\CotacaoDolar.csproj.CoreCompileInputs.cache
+D:\Development Projects\C#2025\CotacaoDolar\CotacaoDolar\obj\Debug\CotacaoDolar.exe
+D:\Development Projects\C#2025\CotacaoDolar\CotacaoDolar\obj\Debug\CotacaoDolar.pdb

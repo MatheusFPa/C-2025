@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Development Projects\\C#2025\\Sobrecarga\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6E4D2D32-7E0B-4554-A605-A4F9618F9E52}|Sobrecarga\\Sobrecarga.csproj|d:\\development projects\\c#2025\\sobrecarga\\sobrecarga\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E4D2D32-7E0B-4554-A605-A4F9618F9E52}|Sobrecarga\\Sobrecarga.csproj|solutionrelative:sobrecarga\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Development Projects\\C#2025\\Sobrecarga\\Sobrecarga\\Program.cs",
+              "RelativeDocumentMoniker": "Sobrecarga\\Program.cs",
+              "ToolTip": "D:\\Development Projects\\C#2025\\Sobrecarga\\Sobrecarga\\Program.cs",
+              "RelativeToolTip": "Sobrecarga\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T23:01:18.199Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

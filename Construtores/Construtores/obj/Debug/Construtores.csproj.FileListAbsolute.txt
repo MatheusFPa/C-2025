@@ -1,0 +1,7 @@
+D:\Development Projects\C#2025\Construtores\Construtores\bin\Debug\Construtores.exe.config
+D:\Development Projects\C#2025\Construtores\Construtores\bin\Debug\Construtores.exe
+D:\Development Projects\C#2025\Construtores\Construtores\bin\Debug\Construtores.pdb
+D:\Development Projects\C#2025\Construtores\Construtores\obj\Debug\Construtores.csproj.AssemblyReference.cache
+D:\Development Projects\C#2025\Construtores\Construtores\obj\Debug\Construtores.csproj.CoreCompileInputs.cache
+D:\Development Projects\C#2025\Construtores\Construtores\obj\Debug\Construtores.exe
+D:\Development Projects\C#2025\Construtores\Construtores\obj\Debug\Construtores.pdb
