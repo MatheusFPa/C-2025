@@ -10,6 +10,11 @@ namespace Encapsulamento
     {
         static void Main(string[] args)
         {
+            Produto p = new Produto("TV", 500.00, 10);
+
+            p.SetNome("");
+
+            Console.WriteLine(p.GetNome());
         }
     }
 }
