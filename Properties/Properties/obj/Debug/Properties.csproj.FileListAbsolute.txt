@@ -1,0 +1,7 @@
+D:\Development Projects\C#2025\Properties\Properties\bin\Debug\Properties.exe.config
+D:\Development Projects\C#2025\Properties\Properties\bin\Debug\Properties.exe
+D:\Development Projects\C#2025\Properties\Properties\bin\Debug\Properties.pdb
+D:\Development Projects\C#2025\Properties\Properties\obj\Debug\Properties.csproj.AssemblyReference.cache
+D:\Development Projects\C#2025\Properties\Properties\obj\Debug\Properties.csproj.CoreCompileInputs.cache
+D:\Development Projects\C#2025\Properties\Properties\obj\Debug\Properties.exe
+D:\Development Projects\C#2025\Properties\Properties\obj\Debug\Properties.pdb
