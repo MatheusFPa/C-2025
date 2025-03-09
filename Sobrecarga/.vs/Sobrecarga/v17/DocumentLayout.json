@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{6E4D2D32-7E0B-4554-A605-A4F9618F9E52}|Sobrecarga\\Sobrecarga.csproj|d:\\development projects\\c#2025\\sobrecarga\\sobrecarga\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6E4D2D32-7E0B-4554-A605-A4F9618F9E52}|Sobrecarga\\Sobrecarga.csproj|solutionrelative:sobrecarga\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E4D2D32-7E0B-4554-A605-A4F9618F9E52}|Sobrecarga\\Sobrecarga.csproj|D:\\Development Projects\\C#2025\\Sobrecarga\\sobrecarga\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E4D2D32-7E0B-4554-A605-A4F9618F9E52}|Sobrecarga\\Sobrecarga.csproj|solutionrelative:sobrecarga\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,9 +32,22 @@
               "RelativeDocumentMoniker": "Sobrecarga\\Program.cs",
               "ToolTip": "D:\\Development Projects\\C#2025\\Sobrecarga\\Sobrecarga\\Program.cs",
               "RelativeToolTip": "Sobrecarga\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAkwA8AAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-07T23:01:18.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "D:\\Development Projects\\C#2025\\Sobrecarga\\Sobrecarga\\Produto.cs",
+              "RelativeDocumentMoniker": "Sobrecarga\\Produto.cs",
+              "ToolTip": "D:\\Development Projects\\C#2025\\Sobrecarga\\Sobrecarga\\Produto.cs",
+              "RelativeToolTip": "Sobrecarga\\Produto.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T23:08:10.383Z",
               "EditorCaption": ""
             }
           ]

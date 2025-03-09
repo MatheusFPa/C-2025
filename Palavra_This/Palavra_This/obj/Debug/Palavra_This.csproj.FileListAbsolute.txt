@@ -1,0 +1,7 @@
+D:\Development Projects\C#2025\Palavra_This\Palavra_This\bin\Debug\Palavra_This.exe.config
+D:\Development Projects\C#2025\Palavra_This\Palavra_This\bin\Debug\Palavra_This.exe
+D:\Development Projects\C#2025\Palavra_This\Palavra_This\bin\Debug\Palavra_This.pdb
+D:\Development Projects\C#2025\Palavra_This\Palavra_This\obj\Debug\Palavra_This.csproj.AssemblyReference.cache
+D:\Development Projects\C#2025\Palavra_This\Palavra_This\obj\Debug\Palavra_This.csproj.CoreCompileInputs.cache
+D:\Development Projects\C#2025\Palavra_This\Palavra_This\obj\Debug\Palavra_This.exe
+D:\Development Projects\C#2025\Palavra_This\Palavra_This\obj\Debug\Palavra_This.pdb

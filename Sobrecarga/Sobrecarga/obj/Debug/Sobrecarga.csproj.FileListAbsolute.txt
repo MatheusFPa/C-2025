@@ -1,0 +1,7 @@
+D:\Development Projects\C#2025\Sobrecarga\Sobrecarga\bin\Debug\Sobrecarga.exe.config
+D:\Development Projects\C#2025\Sobrecarga\Sobrecarga\bin\Debug\Sobrecarga.exe
+D:\Development Projects\C#2025\Sobrecarga\Sobrecarga\bin\Debug\Sobrecarga.pdb
+D:\Development Projects\C#2025\Sobrecarga\Sobrecarga\obj\Debug\Sobrecarga.csproj.AssemblyReference.cache
+D:\Development Projects\C#2025\Sobrecarga\Sobrecarga\obj\Debug\Sobrecarga.csproj.CoreCompileInputs.cache
+D:\Development Projects\C#2025\Sobrecarga\Sobrecarga\obj\Debug\Sobrecarga.exe
+D:\Development Projects\C#2025\Sobrecarga\Sobrecarga\obj\Debug\Sobrecarga.pdb

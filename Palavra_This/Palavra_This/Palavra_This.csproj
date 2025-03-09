@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{6E4D2D32-7E0B-4554-A605-A4F9618F9E52}</ProjectGuid>
+    <ProjectGuid>{E40A5D2E-9D7C-4F27-9705-961937BB63F7}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Sobrecarga</RootNamespace>
-    <AssemblyName>Sobrecarga</AssemblyName>
+    <RootNamespace>Palavra_This</RootNamespace>
+    <AssemblyName>Palavra_This</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

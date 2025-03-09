@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Data.SqlTypes;
 using System.Globalization;
 namespace Course
 {
@@ -12,12 +13,23 @@ namespace Course
             string nome = Console.ReadLine();
             Console.Write("Preço: ");
             double preco = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-    
-            Produto p = new Produto(nome, preco, 5);
-            
-            Console.WriteLine();        
+            Console.Write("Quantidade no estoque: ");
+            int quantidade = int.Parse(Console.ReadLine());
+
+            Produto p = new Produto(nome, preco);
+
+            Produto p2 = new Produto();
+
+            Produto p3 = new Produto
+            {
+                Nome = "TV", 
+                Preco = 500.00, 
+                Quantidade = 10 
+            };
+
+
+            Console.WriteLine();
             Console.WriteLine("Dados do produto: " + p);
-            /*
             Console.WriteLine();
             Console.Write("Digite o número de produtos a ser adicionado ao estoque: ");
             int qte = int.Parse(Console.ReadLine());
@@ -31,7 +43,7 @@ namespace Course
             p.RemoverProdutos(qte);
 
             Console.WriteLine();
-            Console.WriteLine("Dados atualizados: " + p);*/
+            Console.WriteLine("Dados atualizados: " + p);
         }
     }
 }
