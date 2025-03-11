@@ -1,0 +1,7 @@
+D:\Development Projects\C#2025\CadastroBanco\CadastroBanco\obj\Debug\CadastroBanco.csproj.AssemblyReference.cache
+D:\Development Projects\C#2025\CadastroBanco\CadastroBanco\obj\Debug\CadastroBanco.csproj.CoreCompileInputs.cache
+D:\Development Projects\C#2025\CadastroBanco\CadastroBanco\bin\Debug\CadastroBanco.exe.config
+D:\Development Projects\C#2025\CadastroBanco\CadastroBanco\bin\Debug\CadastroBanco.exe
+D:\Development Projects\C#2025\CadastroBanco\CadastroBanco\bin\Debug\CadastroBanco.pdb
+D:\Development Projects\C#2025\CadastroBanco\CadastroBanco\obj\Debug\CadastroBanco.exe
+D:\Development Projects\C#2025\CadastroBanco\CadastroBanco\obj\Debug\CadastroBanco.pdb

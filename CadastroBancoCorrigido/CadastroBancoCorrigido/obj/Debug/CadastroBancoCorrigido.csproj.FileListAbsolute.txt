@@ -1,0 +1,7 @@
+D:\Development Projects\C#2025\CadastroBancoCorrigido\CadastroBancoCorrigido\bin\Debug\CadastroBancoCorrigido.exe.config
+D:\Development Projects\C#2025\CadastroBancoCorrigido\CadastroBancoCorrigido\bin\Debug\CadastroBancoCorrigido.exe
+D:\Development Projects\C#2025\CadastroBancoCorrigido\CadastroBancoCorrigido\bin\Debug\CadastroBancoCorrigido.pdb
+D:\Development Projects\C#2025\CadastroBancoCorrigido\CadastroBancoCorrigido\obj\Debug\CadastroBancoCorrigido.csproj.AssemblyReference.cache
+D:\Development Projects\C#2025\CadastroBancoCorrigido\CadastroBancoCorrigido\obj\Debug\CadastroBancoCorrigido.csproj.CoreCompileInputs.cache
+D:\Development Projects\C#2025\CadastroBancoCorrigido\CadastroBancoCorrigido\obj\Debug\CadastroBancoCorrigido.exe
+D:\Development Projects\C#2025\CadastroBancoCorrigido\CadastroBancoCorrigido\obj\Debug\CadastroBancoCorrigido.pdb
