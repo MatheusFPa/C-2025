@@ -1,0 +1,7 @@
+D:\Development Projects\C#2025\ExercicioVetor1\ExercicioVetor1\bin\Debug\ExercicioVetor1.exe.config
+D:\Development Projects\C#2025\ExercicioVetor1\ExercicioVetor1\bin\Debug\ExercicioVetor1.exe
+D:\Development Projects\C#2025\ExercicioVetor1\ExercicioVetor1\bin\Debug\ExercicioVetor1.pdb
+D:\Development Projects\C#2025\ExercicioVetor1\ExercicioVetor1\obj\Debug\ExercicioVetor1.csproj.AssemblyReference.cache
+D:\Development Projects\C#2025\ExercicioVetor1\ExercicioVetor1\obj\Debug\ExercicioVetor1.csproj.CoreCompileInputs.cache
+D:\Development Projects\C#2025\ExercicioVetor1\ExercicioVetor1\obj\Debug\ExercicioVetor1.exe
+D:\Development Projects\C#2025\ExercicioVetor1\ExercicioVetor1\obj\Debug\ExercicioVetor1.pdb

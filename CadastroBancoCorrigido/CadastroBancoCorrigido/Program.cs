@@ -17,8 +17,8 @@ namespace CadastroBancoCorrigido
             Console.Write("Entre o titular da conta: ");
             String Name = Console.ReadLine();
             Console.Write("Haverá deposito incial (s/n)? ");
-            string inicial = Console.ReadLine();
-            if (inicial == "s" || inicial == "S")
+            char inicial = char.Parse(Console.ReadLine());
+            if (inicial == 's' || inicial == 'S') 
             {
                 Console.Write("Entre com o valor inicial: ");
                 double depositoInicial = double.Parse(Console.ReadLine(),CultureInfo.InvariantCulture);

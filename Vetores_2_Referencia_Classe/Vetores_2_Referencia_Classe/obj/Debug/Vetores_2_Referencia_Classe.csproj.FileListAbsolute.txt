@@ -1,0 +1,7 @@
+D:\Development Projects\C#2025\Vetores_2_Referencia_Classe\Vetores_2_Referencia_Classe\bin\Debug\Vetores_2_Referencia_Classe.exe.config
+D:\Development Projects\C#2025\Vetores_2_Referencia_Classe\Vetores_2_Referencia_Classe\bin\Debug\Vetores_2_Referencia_Classe.exe
+D:\Development Projects\C#2025\Vetores_2_Referencia_Classe\Vetores_2_Referencia_Classe\bin\Debug\Vetores_2_Referencia_Classe.pdb
+D:\Development Projects\C#2025\Vetores_2_Referencia_Classe\Vetores_2_Referencia_Classe\obj\Debug\Vetores_2_Referencia_Classe.csproj.AssemblyReference.cache
+D:\Development Projects\C#2025\Vetores_2_Referencia_Classe\Vetores_2_Referencia_Classe\obj\Debug\Vetores_2_Referencia_Classe.csproj.CoreCompileInputs.cache
+D:\Development Projects\C#2025\Vetores_2_Referencia_Classe\Vetores_2_Referencia_Classe\obj\Debug\Vetores_2_Referencia_Classe.exe
+D:\Development Projects\C#2025\Vetores_2_Referencia_Classe\Vetores_2_Referencia_Classe\obj\Debug\Vetores_2_Referencia_Classe.pdb

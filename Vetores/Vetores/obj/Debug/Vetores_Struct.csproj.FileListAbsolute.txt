@@ -1,0 +1,7 @@
+D:\Development Projects\C#2025\Vetores\Vetores\bin\Debug\Vetores.exe.config
+D:\Development Projects\C#2025\Vetores\Vetores\bin\Debug\Vetores.exe
+D:\Development Projects\C#2025\Vetores\Vetores\bin\Debug\Vetores.pdb
+D:\Development Projects\C#2025\Vetores\Vetores\obj\Debug\Vetores_Struct.csproj.AssemblyReference.cache
+D:\Development Projects\C#2025\Vetores\Vetores\obj\Debug\Vetores_Struct.csproj.CoreCompileInputs.cache
+D:\Development Projects\C#2025\Vetores\Vetores\obj\Debug\Vetores.exe
+D:\Development Projects\C#2025\Vetores\Vetores\obj\Debug\Vetores.pdb
