@@ -1,0 +1,7 @@
+D:\Development Projects\C#2025\ModificadorRef\ModificadorRef\obj\Debug\ModificadorRef.csproj.AssemblyReference.cache
+D:\Development Projects\C#2025\ModificadorRef\ModificadorRef\obj\Debug\ModificadorRef.csproj.CoreCompileInputs.cache
+D:\Development Projects\C#2025\ModificadorRef\ModificadorRef\bin\Debug\ModificadorRef.exe.config
+D:\Development Projects\C#2025\ModificadorRef\ModificadorRef\bin\Debug\ModificadorRef.exe
+D:\Development Projects\C#2025\ModificadorRef\ModificadorRef\bin\Debug\ModificadorRef.pdb
+D:\Development Projects\C#2025\ModificadorRef\ModificadorRef\obj\Debug\ModificadorRef.exe
+D:\Development Projects\C#2025\ModificadorRef\ModificadorRef\obj\Debug\ModificadorRef.pdb

@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Development Projects\\C#2025\\ModificadorRef\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C383B3A-FB84-444A-8BB5-A8EFB720F84D}|ModificadorRef\\ModificadorRef.csproj|d:\\development projects\\c#2025\\modificadorref\\modificadorref\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C383B3A-FB84-444A-8BB5-A8EFB720F84D}|ModificadorRef\\ModificadorRef.csproj|solutionrelative:modificadorref\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C383B3A-FB84-444A-8BB5-A8EFB720F84D}|ModificadorRef\\ModificadorRef.csproj|d:\\development projects\\c#2025\\modificadorref\\modificadorref\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C383B3A-FB84-444A-8BB5-A8EFB720F84D}|ModificadorRef\\ModificadorRef.csproj|solutionrelative:modificadorref\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "D:\\Development Projects\\C#2025\\ModificadorRef\\ModificadorRef\\Calculator.cs",
+              "RelativeDocumentMoniker": "ModificadorRef\\Calculator.cs",
+              "ToolTip": "D:\\Development Projects\\C#2025\\ModificadorRef\\ModificadorRef\\Calculator.cs",
+              "RelativeToolTip": "ModificadorRef\\Calculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T00:32:49.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Development Projects\\C#2025\\ModificadorRef\\ModificadorRef\\Program.cs",
+              "RelativeDocumentMoniker": "ModificadorRef\\Program.cs",
+              "ToolTip": "D:\\Development Projects\\C#2025\\ModificadorRef\\ModificadorRef\\Program.cs",
+              "RelativeToolTip": "ModificadorRef\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T00:32:33.24Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
