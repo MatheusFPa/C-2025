@@ -1,0 +1,7 @@
+D:\Development Projects\C#2025\SwitchCase\SwitchCase\bin\Debug\SwitchCase.exe.config
+D:\Development Projects\C#2025\SwitchCase\SwitchCase\bin\Debug\SwitchCase.exe
+D:\Development Projects\C#2025\SwitchCase\SwitchCase\bin\Debug\SwitchCase.pdb
+D:\Development Projects\C#2025\SwitchCase\SwitchCase\obj\Debug\SwitchCase.csproj.AssemblyReference.cache
+D:\Development Projects\C#2025\SwitchCase\SwitchCase\obj\Debug\SwitchCase.csproj.CoreCompileInputs.cache
+D:\Development Projects\C#2025\SwitchCase\SwitchCase\obj\Debug\SwitchCase.exe
+D:\Development Projects\C#2025\SwitchCase\SwitchCase\obj\Debug\SwitchCase.pdb
