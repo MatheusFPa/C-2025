@@ -1,0 +1,7 @@
+D:\Development Projects\C#2025\MatrizExemplo\MatrizExemplo\obj\Debug\MatrizExemplo.csproj.AssemblyReference.cache
+D:\Development Projects\C#2025\MatrizExemplo\MatrizExemplo\obj\Debug\MatrizExemplo.csproj.CoreCompileInputs.cache
+D:\Development Projects\C#2025\MatrizExemplo\MatrizExemplo\bin\Debug\MatrizExemplo.exe.config
+D:\Development Projects\C#2025\MatrizExemplo\MatrizExemplo\bin\Debug\MatrizExemplo.exe
+D:\Development Projects\C#2025\MatrizExemplo\MatrizExemplo\bin\Debug\MatrizExemplo.pdb
+D:\Development Projects\C#2025\MatrizExemplo\MatrizExemplo\obj\Debug\MatrizExemplo.exe
+D:\Development Projects\C#2025\MatrizExemplo\MatrizExemplo\obj\Debug\MatrizExemplo.pdb

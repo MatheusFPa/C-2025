@@ -1,0 +1,7 @@
+D:\Development Projects\C#2025\ExercicioListas\ExercicioListas\bin\Debug\ExercicioListas.exe.config
+D:\Development Projects\C#2025\ExercicioListas\ExercicioListas\bin\Debug\ExercicioListas.exe
+D:\Development Projects\C#2025\ExercicioListas\ExercicioListas\bin\Debug\ExercicioListas.pdb
+D:\Development Projects\C#2025\ExercicioListas\ExercicioListas\obj\Debug\ExercicioListas.csproj.AssemblyReference.cache
+D:\Development Projects\C#2025\ExercicioListas\ExercicioListas\obj\Debug\ExercicioListas.csproj.CoreCompileInputs.cache
+D:\Development Projects\C#2025\ExercicioListas\ExercicioListas\obj\Debug\ExercicioListas.exe
+D:\Development Projects\C#2025\ExercicioListas\ExercicioListas\obj\Debug\ExercicioListas.pdb

@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Development Projects\\C#2025\\ExercicioListas\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{63875A65-12A2-49DF-AA62-27EB4D1257D2}|ExercicioListas\\ExercicioListas.csproj|D:\\Development Projects\\C#2025\\ExercicioListas\\exerciciolistas\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63875A65-12A2-49DF-AA62-27EB4D1257D2}|ExercicioListas\\ExercicioListas.csproj|solutionrelative:exerciciolistas\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{63875A65-12A2-49DF-AA62-27EB4D1257D2}|ExercicioListas\\ExercicioListas.csproj|d:\\development projects\\c#2025\\exerciciolistas\\exerciciolistas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{63875A65-12A2-49DF-AA62-27EB4D1257D2}|ExercicioListas\\ExercicioListas.csproj|solutionrelative:exerciciolistas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,15 +26,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Development Projects\\C#2025\\ExercicioListas\\ExercicioListas\\Program.cs",
               "RelativeDocumentMoniker": "ExercicioListas\\Program.cs",
               "ToolTip": "D:\\Development Projects\\C#2025\\ExercicioListas\\ExercicioListas\\Program.cs",
               "RelativeToolTip": "ExercicioListas\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAuwC0AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-18T23:49:30.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Funcionario.cs",
+              "DocumentMoniker": "D:\\Development Projects\\C#2025\\ExercicioListas\\ExercicioListas\\Funcionario.cs",
+              "RelativeDocumentMoniker": "ExercicioListas\\Funcionario.cs",
+              "ToolTip": "D:\\Development Projects\\C#2025\\ExercicioListas\\ExercicioListas\\Funcionario.cs",
+              "RelativeToolTip": "ExercicioListas\\Funcionario.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T00:32:16.307Z",
               "EditorCaption": ""
             }
           ]
